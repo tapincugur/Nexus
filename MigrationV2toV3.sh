@@ -4,7 +4,7 @@ NEWREPOSITORY=maven-releases
 EXTENSIONS="*.jar *.war *.pom *.xml *.md5 *.sha1 *.zip"
 USERNAME="admin"
 PASSWORD="PASSWORD"
-DURL="167.172.111.73"
+DURL="IPADD"
 
 for tosearch in $EXTENSIONS;
 do
